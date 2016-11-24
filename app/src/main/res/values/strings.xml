@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SwipeableView</string>
+    <string name="swipeable_more_than_one_child_exception">IllegalStateException \"SwipeableView can host only one direct child\"</string>
+</resources>
